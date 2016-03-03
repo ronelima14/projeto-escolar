@@ -1,0 +1,175 @@
+@charset="UTF-8";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+html, body{
+	margin: 0 !important; 
+	padding: 0 !important;
+}
+
+.wrapper {
+	background-image: url('../images/bg-qs.jpg') !important;
+}
+
+img{
+	margin: .6em 0
+}
+
+.featured-section-movies{
+	background-color: #16A086;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+div.spaced {
+	margin: 0 0 4% 0;
+}
+
+.footer-bottom {
+	margin-bottom: 0 !important;
+}
+
+.title-home {
+	font-family: 'Lato', sans-serif;
+	font-size: 3rem;
+	color: #343434;
+
+}
+
+.color-margin {
+	border-bottom: 1px solid #dedede;
+}
+
+.title-news {
+	color: #454545;
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+}
+
+.small {
+	font-size: 14px !important;
+	line-height: 1.48 !important;
+	margin-top: 2%;
+}
+
+header {
+	background-color: #f8f8f8;
+	margin-top: -10px !important;
+	padding-top: 10px;
+}
+
+/* Noticias */
+
+p.news {
+	padding: 14px;
+	color: #454545;
+	font-family: 'Lato', sans-serif;
+}
+
+.related-container {
+	border-bottom: 2px solid #000;
+	width: 95%;
+	margin-bottom: 1%;
+}
+
+h2.news {
+	padding: 14px;
+	color: #454545;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.news-home {
+	padding-left: 10px;
+}
+
+/* FOOTER GERAL */
+
+.footer-bottom {
+	margin-bottom: -16px !important;
+}
+
+.space {
+	margin-bottom: 5%;
+}
+
+/* Quem somos */
+
+img.personal {
+	width: 150px;
+}
+
+img.icons {
+	width: 30%;
+
+}
+
+div.panel p {
+	padding: 0 !important;
+}
+
+div.bg-qs {
+	background-image: url('../images/bg-qs.jpg');
+}
+
+div.qs-border {
+	border-bottom: 2px solid #000;
+	width: 100%;
+	margin-bottom: 1%;
+}
+
+.form-contact {
+	margin-bottom: 200px;
+}
+
+.link{
+	color: #000000;
+}
+
+.link:hover{
+	color: #454545;
+}
+
+/*  footer  */
+
+.footer-basic-centered{
+	background-color: #292c2f;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: center;
+	font: normal 18px sans-serif;
+
+	padding: 45px;
+	margin-top: 80px;
+	margin-bottom: -25px;
+}
+
+.footer-basic-centered .footer-company-motto{
+	color:  #8d9093;
+	font-size: 24px;
+	margin: 0;
+}
+
+.footer-basic-centered .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	margin: 0;
+}
+
+.footer-basic-centered .footer-links{
+	list-style: none;
+	font-weight: bold;
+	color:  #ffffff;
+	padding: 35px 0 23px;
+	margin: 0;
+}
+
+.footer-basic-centered .footer-links a{
+	display:inline-block;
+	text-decoration: none;
+	color: inherit;
+}

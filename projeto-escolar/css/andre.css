@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/*
+Versão: 0.1
+Autor:André
+Data: 08/12/2015
+*/
+
+body{
+    text-align: justify;
+}
+
+
+h1, h2, h3{
+    text-align: center;
+    color:#FF8C00;
+}
+
+#h1 title-news text-justify{
+    color:#FF8C00;
+}
+a{
+    color:#FF8C00;
+}
+
+img{
+    padding: 0.2em;
+    
+}
+
+p{
+    padding: 1.0em;
+}

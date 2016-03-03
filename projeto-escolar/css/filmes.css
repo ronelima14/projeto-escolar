@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+header { background-color: black; 
+}
+
+h1 { font-size: 20px; 
+}
+h3 { border: 3px;
+}
+    
+h5 { font-size: 30px; 
+    font-family: 'Berkshire Swash', cursive;
+    color: aliceblue;
+}
+
+.pfilmes{ color: #ffffff;
+          text-align: justify;
+    
+}
+    
+article { border-bottom-style: groove;
+}
+
+#em-breve{ border-bottom-style: groove;
+}
+
+.fonteb{ color: black;
+}
+
+html, body {
+	background-color: #000000;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.titulo-filmes {
+    font-family: 'Lato', 'Verdana', sans-serif;
+	color: #ffe4c4;
+}
+
+
+.pqn{ font-size: 10px; 
+
+}
+

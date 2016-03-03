@@ -1,0 +1,18 @@
+@charset="UTF-8";
+
+.title-music-page {
+	margin-top: -.5%;
+	font-size: 18px;
+	font-family: 'Lato', 'Verdana', sans-serif;
+	color: #343434;
+}
+
+.music-title {
+	color: #343434;
+}
+
+.music-container {
+	border-bottom: 2px solid #343434;
+	width: 95%;
+	margin-bottom: 1%;
+}

@@ -1,0 +1,18 @@
+@charset="UTF-8";
+
+h2.hq-tittlea{
+    color: #000000;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+h5.hq-texto{
+	color: #000000;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+.hq-container{
+	margin: 1%;
+	height: 100px;
+}
